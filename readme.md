@@ -30,7 +30,25 @@ _Ich habe gut gearbeitet da es mir auch spass gemacht hat. Ich habe etwas kleine
 ##
 *Arbeitspakete für 5.09.23* 
 
-[] tutorial für taschenrechner
-[] Taschenrechner programmieren selbstständig wie möglich
-[] alles nochmal durchschauen uzum verstehen
-[] tutorial für nächstes projekt (Würfel)
+[x] tutorial für taschenrechner
+[x] Taschenrechner programmieren selbstständig wie möglich
+[x] alles nochmal durchschauen uzum verstehen
+[x] tutorial für nächstes projekt (Würfel)
+
+
+## 
+Arbeitspakete für 12.09.23
+
+[] Tutorial für Würfel
+[] Programmiren das es würfelt bis die Zahl über 20 ist und dann hört es auf
+[] Programmieren mit zahl über 50
+[] Alles nochmals repetieren und verinnerlichen
+
+
+
+##
+Arbeitspakete für 19.09.23
+
+
+
+
