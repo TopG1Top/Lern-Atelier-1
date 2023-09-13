@@ -39,15 +39,24 @@ _Ich habe gut gearbeitet da es mir auch spass gemacht hat. Ich habe etwas kleine
 ## 
 Arbeitspakete für 12.09.23
 
-[] Tutorial für Würfel
-[] Programmiren das es würfelt bis die Zahl über 20 ist und dann hört es auf
-[] Programmieren mit zahl über 50
-[] Alles nochmals repetieren und verinnerlichen
+[x] Tutorial für Würfel
+[x] Programmiren das es würfelt bis die Zahl über 20 ist und dann hört es auf
+[x] Programmieren mit zahl über 50
+[x] Alles nochmals repetieren und verinnerlichen
+
+Es lief alles gut ich hatte keine probleme da ein freund von mir es schon gemacht hatte und mir noch nebenbei helfen konnte. ich hatte hilfe vom tutorial und ihm aber ich habe es selber versucht und gemacht da ich es selber können will. Ich habe es am anfang versucht mit dem wissen das ich schon hatte und ganz wenig hilfe von youtube und google und hat schon funktioniert und das ist ein erster erfolg.
 
 
 
 ##
 Arbeitspakete für 19.09.23
+
+
+
+[] tutorial anschauen für hangman spiel
+[]versuchen mit dem wissen was ich habe es ertsmal zu programmieren mit wort was gesucht ist und versuche
+[] durchspielen und zwar mehrmals ohne neuzustarten. und das man verlieren kann wenn man zu oft falsch liegt
+[] von fehlern die gemacht wurden lernen.
 
 
 
