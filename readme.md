@@ -59,7 +59,7 @@ Arbeitspakete für 19.09.2023
 [x] von fehlern die gemacht wurden lernen.
 
 
-Das hangman spiel ist gut gegangen jedoch habe ich hilfe vom internet benötigt da ich viele begriffe nicht kannte und nachschauen musste. vieles habe ich mit Youtube und Github gemacht. Schwierigkeiten waren einfach die Begriffe die ich nicht kannte.
+Das hangman spiel ist gut gegangen jedoch habe ich hilfe vom internet benötigt da ich viele begriffe nicht kannte und nachschauen musste. vieles habe ich mit Youtube und Github gemacht. Schwierigkeiten waren einfach die Begriffe die ich nicht kannte. Ich habe heute relativ gut gearbeitet bin gut durchgekommen mit dem spiel habe neues gelernt 
 
 
 
@@ -72,7 +72,7 @@ Arbeitspakete für 26.9.2023
 [] Quizprogramm mit fragen und Antworten
 [] verstehen welcher code  für was steht  
 [] Tic-Tac-Toe spiel versuchen zu machen
-[] Tutorials
+
 
 
 
