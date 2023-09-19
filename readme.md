@@ -49,14 +49,30 @@ Es lief alles gut ich hatte keine probleme da ein freund von mir es schon gemach
 
 
 ##
-Arbeitspakete für 19.09.23
+Arbeitspakete für 19.09.2023
 
 
 
-[] tutorial anschauen für hangman spiel
-[]versuchen mit dem wissen was ich habe es ertsmal zu programmieren mit wort was gesucht ist und versuche
-[] durchspielen und zwar mehrmals ohne neuzustarten. und das man verlieren kann wenn man zu oft falsch liegt
-[] von fehlern die gemacht wurden lernen.
+[x] tutorial anschauen für hangman spiel
+[x]versuchen mit dem wissen was ich habe es ertsmal zu programmieren mit wort was gesucht ist und versuche
+[x] durchspielen und zwar mehrmals ohne neuzustarten. und das man verlieren kann wenn man zu oft falsch liegt
+[x] von fehlern die gemacht wurden lernen.
+
+
+Das hangman spiel ist gut gegangen jedoch habe ich hilfe vom internet benötigt da ich viele begriffe nicht kannte und nachschauen musste. vieles habe ich mit Youtube und Github gemacht. Schwierigkeiten waren einfach die Begriffe die ich nicht kannte.
+
+
+
+
+
+
+##
+Arbeitspakete für 26.9.2023
+
+[] Quizprogramm mit fragen und Antworten
+[] verstehen welcher code  für was steht  
+[] Tic-Tac-Toe spiel versuchen zu machen
+[] Tutorials
 
 
 
