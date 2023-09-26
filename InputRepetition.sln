@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputRepetition", "InputRepetition\InputRepetition.csproj", "{E08DCD9D-59E5-408E-A6DD-EE435C404DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B4086BB8-B926-4DEF-A6A7-2335A79883A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08DCD9D-59E5-408E-A6DD-EE435C404DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08DCD9D-59E5-408E-A6DD-EE435C404DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08DCD9D-59E5-408E-A6DD-EE435C404DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08DCD9D-59E5-408E-A6DD-EE435C404DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4086BB8-B926-4DEF-A6A7-2335A79883A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4086BB8-B926-4DEF-A6A7-2335A79883A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4086BB8-B926-4DEF-A6A7-2335A79883A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4086BB8-B926-4DEF-A6A7-2335A79883A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95812683-DA34-406C-8C00-7F1B763F17D2}
+	EndGlobalSection
+EndGlobal
