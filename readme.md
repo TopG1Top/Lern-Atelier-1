@@ -69,9 +69,19 @@ Das hangman spiel ist gut gegangen jedoch habe ich hilfe vom internet benötigt 
 ##
 Arbeitspakete für 26.9.2023
 
-[] Quizprogramm mit fragen und Antworten
-[] verstehen welcher code  für was steht  
-[] Tic-Tac-Toe spiel versuchen zu machen
+[x] Quizprogramm mit fragen und Antworten
+[x] verstehen welcher code  für was steht  
+[x] Tic-Tac-Toe spiel versuchen zu machen
+
+
+ich habe ein Quizprogramm erstellt, bei dem Fragen gestellt und die Antworten überprüft werden. Zusätzlich habe ich Zeit damit verbracht, den Code zu verstehen und herauszufinden, wofür jeder Teil steht. Außerdem habe ich versucht, ein Tic-Tac-Toe-Spiel zu entwickeln. . Dieser Tag war eine großartige Gelegenheit, meine Fähigkeiten in der Softwareentwicklung weiter auszubauen und mich neuen Herausforderungen zu stellen.
+
+
+
+
+## Reflexion
+
+In den letzten Wochen habe ich intensiv an meiner Programmierfähigkeiten gearbeitet und verschiedene Projekte umgesetzt. Am 5. September habe ich mir ein Tutorial für die Erstellung eines Taschenrechners angesehen und versucht, diesen selbstständig zu programmieren. Es hat Spaß gemacht, und nach anfänglichen Schwierigkeiten konnte ich das Projekt erfolgreich abschließen. Das Number Guess-Spiel war eine Herausforderung, für die ich ein YouTube-Tutorial benötigte. Trotz kleiner Fehler, wie vergessenen Klammern, habe ich viel gelernt. Das war der anfang vom Programmieren für mich. Es war alles neu. Das war aber sehr erfolgreich da es das erste war was ich programmiert habe. Ich war allgemein sehr konzentriert. Am 12. September habe ich mich mit einem Würfelprojekt beschäftigt, bei dem der Würfel so lange würfelt, bis die Zahl über 20 liegt. Ich habe auch eine Version erstellt, die über 50 geht. Die Unterstützung eines Freundes und Tutorials halfen mir, diese Aufgaben zu bewältigen.Am 19. September habe ich ein Hangman-Spiel entwickelt, bei dem ich viele Begriffe nachschlagen musste. Ich habe verschiedene Quellen genutzt, darunter YouTube und GitHub. Die größte Herausforderung war das Kennenlernen neuer Begriffe. Es hat viel spass gemacht dieses spiel zu programmieren da es cool ist dieses auch zu spielen. Am 26. September habe ich ein Quizprogramm erstellt, den Code verstanden und versucht, ein Tic-Tac-Toe-Spiel zu programmieren. Diese Projekte haben mir gezeigt, wie wichtig es ist, stetig dazuzulernen und Hilfe von verschiedenen Quellen zu suchen. Ich freue mich auf weitere Projekte und darauf, meine Fähigkeiten weiter auszubauen. VBF Ich versuche das zu erreichen in dem ich Musik höre während dem Arbeiten denn das hilft mir und auch am Morgen etwas esse das hilft mir bei allem. Vor allem meine Durchhaltevermögen
 
 
 
